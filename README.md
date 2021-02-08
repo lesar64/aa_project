@@ -1,1 +1,10 @@
-# aa_project
+# Team Assignment - Analytic and Applications
+
+Team 3: Jan Fiedler, Tuan Ha, Diana Geibel, Niko Nowak, Steffen Weißhaar
+
+The code for our group project is structured into four notebooks:
+
+1. [data preparation](Abgabe/part_1_data_preparation.ipynb)
+2. [descriptive analytics](Abgabe/part_2_descriptive_analytics.ipynb)
+3. [cluster analytics](Abgabe/part_3_cluster_analytics.ipynb)
+4. [predictive analytics]() Datei noch nicht committet!
